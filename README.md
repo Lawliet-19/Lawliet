@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-gu5z4t7QXkw/Xd8bEk6gVxI/AAAAAAAANhQ/jXlVfYNQbOw3Uj4zsxT3fqT5jdrZP4FFQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hey !! ♛, I'm Naman </h1>
-<h3 align="center">A passionate Programmer from India</h3>
+<h3 align="center">A passionate Programmer</h3>
 <img align="right" alt="Coding" width"400" src="https://64.media.tumblr.com/75ece82fb7c8496935e3d7a01b98d4aa/tumblr_n94f0b2VLH1t2srs7o2_500.gifv"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lawliet-19&label=Profile%20views&color=0e75b6&style=flat" alt="lawliet-19" /> </p>
